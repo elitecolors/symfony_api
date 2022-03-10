@@ -13,9 +13,9 @@ services:
   postgres:
     image: postgres:12-alpine
     environment:
-      - POSTGRES_DB=dvore
-      - POSTGRES_PASSWORD=dvore
-      - POSTGRES_USER=dvore
+      - POSTGRES_DB=postgresql
+      - POSTGRES_PASSWORD=postgresql
+      - POSTGRES_USER=postgresql
     volumes:
       - db-data:/var/lib/postgresql/data:rw
     ports:

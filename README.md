@@ -13,9 +13,9 @@
 ## Connexion à la base de données :
 
 * localhost:8642
-* user : dvore
-* passwor : dvore
-* base : dvore
+* user : postgresql
+* passwor : postgresql
+* base : postgresql
 
 ## postman collection file 
 check file TEST_CONS.postman_collection.json
