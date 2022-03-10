@@ -1,5 +1,3 @@
-# Dvore - Test technique DevBackend 2022
-
 ## Pré-requis
 * docker & docker-compose)
 * client SGBD pour Postgresql
